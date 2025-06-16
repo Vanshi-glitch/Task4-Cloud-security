@@ -10,7 +10,7 @@ This project demonstrates implementation of basic cloud security practices using
 - Generated access keys for CLI/programmatic use
 
 ## 📄 Report
-- [Task4 Report CloudSecurity.docx](./Task4 Report CloudSecurity.docx)
+- [Task4 Report CloudSecurity.docx](./Task4%20Report%20CloudSecurity.docx)
 
 ## 📸 Screenshots
 All screenshots are available in the [`screenshots/`](./screenshots) folder:
